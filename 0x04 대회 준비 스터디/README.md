@@ -1,6 +1,6 @@
-# ALPS 대회준비 스터디 2020
+# ALPS 대회 준비 스터디 2020
 
-## 선수과정을 포함한 문제
+## 선수 요구 사항
 1. https://www.acmicpc.net/problem/4008
 2. https://www.acmicpc.net/problem/10167
 3. https://www.acmicpc.net/problem/10839
