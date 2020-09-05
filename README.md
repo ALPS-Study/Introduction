@@ -10,7 +10,7 @@
 -   [PS 입문 스터디](https://www.acmicpc.net/group/8999)
     -   C언어 스터디를 수강하신 분들 또는 아직 PS에 익숙하지 않으신 분들을 대상으로 간단한 문제들을 해결하는 스터디입니다.
 
--   [초급 문제풀이 스터디](https://www.acmicpc.net/group/practice/8996)
+-   [초급 문제풀이 스터디](https://www.acmicpc.net/group/8996)
     -   완전 탐색(Brute Force), DFS, BFS, Backtracking, Memoization의 내용으로 준비된 문제들을 풀고 해설을 들을 수 있습니다.
 -   [중급 문제풀이 스터디](https://www.acmicpc.net/group/8997)
     -   Union-Find, MST, BFS, DP, 최단경로 알고리즘, 이분탐색 & Parametric Search, 분할정복, 네트워크 플로우, 세그먼트 트리의 내용으로 준비된 문제들을 풀고 해설을 들을 수 있습니다.
