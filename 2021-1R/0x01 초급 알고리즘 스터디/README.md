@@ -43,11 +43,14 @@
 
 ## 세부 커리큘럼
 
-[다음 링크](https://github.com/jkuk5046/Introduction/blob/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B4%88%EA%B8%89-%EC%8A%A4%ED%84%B0%EB%94%94/2021-1R/0x01%20%EC%B4%88%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/intermediate_study_2021.md)를 참조해주세요.
+[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2021-1R/0x01%20%EC%B4%88%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/intermediate_study_2021.md)를 참조해주세요.
 
 
 
 ## 선수 요구 사항
 
-* '공개된' 백준 문제집 링크 달기
-* 이 문제집을 통해 무엇을 검증하려는지 설명 간단히 달기
+다음 [백준 문제집](https://www.acmicpc.net/workbook/view/7063)에 있는 문제를 총 14문제 중 12문제 이상 해결하셔야 합니다.
+
+구현, 문자열, 기초 수학, 재귀 문제를 담았으며, 문제는 난이도 순으로 배치했습니다.
+
+c언어 문법에 대한 기본적인 이해와 기초적인 프로그래밍 개념을 활용할 수 있는지 확인하기 위한 테스트이며, 인터넷 검색이 자유로우니 아무리 생각해도 답이 떠오르지 않는 문제의 경우 풀이를 찾아 스스로 공부하신 후 신청하시는 것을 권장해드립니다.
