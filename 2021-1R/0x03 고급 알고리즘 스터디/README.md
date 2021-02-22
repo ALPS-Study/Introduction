@@ -1,4 +1,4 @@
-# ALPS 고급 알고리즘 스터디 2020
+# ALPS 고급 알고리즘 스터디 2021
 
 > 스터디 강사 : ALPS 강인구 (컴퓨터학과 16)<br>스터디 일시 : 스터디원끼리 협의 후 결정 
 
@@ -15,19 +15,23 @@
 | 주차 |                     *이번 강의 예정*                     |
 | :--: | :------------------------------------------------------: |
 |  1   |       구간 정보의 이해 (Segment tree, Sparse Table)       |
-|  2   |     트리 고급(오일러 투어 테크닉, Sparse Table, LCA)       |
+|  2   |           트리 고급(오일러 투어 테크닉, LCA, HLD)       |
 |  3   |             세그먼트 트리의 활용 (Sweeping)              |
 |  4   |         기하(CCW, Convex Hull, 실수 오차 처리)           |
 |  5   |                     네트워크 플로우                      |
-|  6   |               DFS 스패닝 트리와 SCC, 2-SAT               |
-|  7   |             고급 수학 (고속 푸리에 변환 등)             |
+|  6   |             고급 수학 (고속 푸리에 변환 등)             |
+|  7   |               DFS 스패닝 트리와 SCC, 2-SAT               |
 |  8   |                문자열 (트라이, KMP, 해싱)                |
-|  9   |             쿼리 특집 (PST, Mo's algorithm)              |
+|  9   |                       심화 문제풀이                     |
 
 세부 커리큘럼은 [여기](https://github.com/ALPS-Study/Introduction/blob/master/2021-1R/0x03%20%EA%B3%A0%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/advanced_study_2021.md) 를 참조해주세요.
 
 ## 스터디 진행 방식
 매주 1시간 ~ 1시간 반 정도의 개념 설명 후 연습문제 풀이로 이루어집니다. 연습문제는 기본문제와 심화문제로 이루어지며 모든 기본문제를 해결해야 이수처리됩니다.
+
+## 세부 커리큘럼
+
+다음 [링크](https://github.com/ALPS-Study/Introduction/blob/master/2021-1R/0x03%20%EA%B3%A0%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/advanced_study_2021.md)를 참조하세요.
 
 ## 선수 요구 사항
 
