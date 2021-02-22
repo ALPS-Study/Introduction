@@ -24,6 +24,8 @@
 |  8   |                문자열 (트라이, KMP, 해싱)                |
 |  9   |             쿼리 특집 (PST, Mo's algorithm)              |
 
+세부 커리큘럼은 [여기](https://github.com/ALPS-Study/Introduction/blob/master/2021-1R/0x03%20%EA%B3%A0%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/advanced_study_2021.md) 를 참조해주세요.
+
 ## 스터디 진행 방식
 매주 1시간 ~ 1시간 반 정도의 개념 설명 후 연습문제 풀이로 이루어집니다. 연습문제는 기본문제와 심화문제로 이루어지며 모든 기본문제를 해결해야 이수처리됩니다.
 
