@@ -17,7 +17,7 @@
 | 주차 |                     *이번 강의 예정*                     |
 | :--: | :------------------------------------------------------: |
 |  1   |       Splay Tree, Link Cut Tree, Dominator Tree      |
-|  2   |                  Dirichlet Convolution |
+|  2   |                  Möbius Inversion |
 |  3   |             Circulation(LR Flow)             |
 |  4   |             Rotating Line Sweep             |
 |  5   |             SA / LCP / Aho-corasick              |
