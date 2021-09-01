@@ -23,8 +23,9 @@
 | 번호 |           *강의 예정*            |
 | :--: | :------------------------------: |
 |  1   | 세그먼트 트리와 Lazy Propagation |
-|  2   |          오프라인 쿼리           |
-|  3   |        Sparse Table과 LCA        |
+|  2   |           스위핑 기법            |
+|  3   |          오프라인 쿼리           |
+|  4   |        Sparse Table과 LCA        |
 
 [다음 링크](https://github.com/ALPS-Study/Introduction/tree/master/2021-1R/0x02%20%EC%A4%91%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94)에 있는 알고리즘들을 포함해 PS에서 매우 자주 다뤄지는 유형의 문제들을 풀어 볼 예정입니다.
 
@@ -38,7 +39,7 @@
 
 ## 세부 커리큘럼
 
-[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2021-1R/0x02%20%EC%A4%91%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%97%B0%EC%8A%B5/intermediate_study_2021.md)를 참조하세요.
+[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2021-2R/0x02%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A4%91%EA%B8%89%20%EC%97%B0%EC%8A%B5/intermediate_study_2021.md)를 참조하세요.
 
 
 
