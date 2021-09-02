@@ -31,10 +31,11 @@ C언어를 기반으로 강의를 진행할 계획이므로, C 혹은 C++로만 
 
 ## 세부 커리큘럼
 
-[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2021-1R/0x00%20알고리즘%20입문%20스터디/ps_study_2021.md)를 참조해주세요.
+[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2021-2R/0x00%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9E%85%EB%AC%B8%20%EC%8A%A4%ED%84%B0%EB%94%94/ps_study_2021.md)를 참조해주세요.
 
 ## 선수 요구 사항
 
 [다음 링크](https://www.acmicpc.net/workbook/view/8853)의 총 13문제 중 10문제 이상 풀어오시면 됩니다.
+
 C언어의 기본적인 문법(조건문, 반복문 등)을 익혀 오시면 스터디를 잘 이수하실 수 있습니다.
 
