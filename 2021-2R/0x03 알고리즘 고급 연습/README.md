@@ -29,7 +29,7 @@
 
 ## 세부 커리큘럼
 
-다음 [링크](https://www.youtube.com/watch?v=dQw4w9WgXcQ)를 참조하세요.
+다음 [링크](https://github.com/ALPS-Study/Introduction/blob/master/2021-2R/0x03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B3%A0%EA%B8%89%20%EC%97%B0%EC%8A%B5/advanced_study_2021.md)를 참조하세요.
 
 ## 선수 요구 사항
 
