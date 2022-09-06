@@ -32,7 +32,7 @@
 
 ## 세부 커리큘럼
 
-[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2022-1R/0x00%20C언어%20스터디/c_study_2022.md)를 참조해주세요.
+[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2022-2R/0x00%20C언어%20스터디/c_study_2022.md)를 참조해주세요.
 
 ## 선수 요구 사항
 
