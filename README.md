@@ -53,7 +53,7 @@
   - 주로 해결하게 되는 문제는 Silver 2 ~ Gold 2, 심화의 경우 Platinum 5 까지입니다.
 
 
-- [알고리즘 중급 연습](https://github.com/ALPS-Study/Introduction/tree/master/2022-2R/0x02%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A4%91%EA%B8%89%20%EC%97%B0%EC%8A%B5)
+- [알고리즘 중급 연습](https://github.com/ALPS-Study/Introduction/tree/master/2022-2R/0x02%20%EC%A4%91%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94)
   - 본격적인 Problem Solving을 시작합니다. USACO/KOI를 비롯한 다양한 올림피아드 문제, ICPC 기출 중 어렵지 않은 것들 위주로 구성됩니다.
   - 이 스터디는 PS 영역에서 매우 자주 다뤄지는 문제들을 무작위로 많이 해결함으로서 DP, 그래프, 그리디, 파라메트릭 서치, 자료구조 등의 빈출 유형을 체화시키는 것을 목표로 합니다.
   - 추후 대회에 참가할 의향이 있거나, 컴퓨터과학 베이스를 정말 탄탄히 다지고 싶으신 분들에게 추천드립니다. 
