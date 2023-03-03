@@ -38,7 +38,7 @@
 
 ## 세부 커리큘럼
 
-[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2023-1R/0x02%20%EC%A4%91%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/intermediate_study_2023.md)를 참조하세요.
+[다음 링크](https://github.com/ALPS-Study/Introduction/blob/e23b8969035854bae5ee994f6cbbbf8d2f96c51a/2023-1R/0x02%20%EC%A4%91%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/intermediate_study_2023.md)를 참조하세요.
 
 ## 선수 요구 사항
 다음 [백준 문제집](https://www.acmicpc.net/workbook/view/10654)에 있는 문제를 총 8문제 중 7문제 이상 해결하셔야 합니다.
