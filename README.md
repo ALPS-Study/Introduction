@@ -27,7 +27,7 @@
 - [C언어 스터디](https://github.com/ALPS-Study/Introduction/tree/master/2023-1R/0x00%20C%EC%96%B8%EC%96%B4%20%EC%8A%A4%ED%84%B0%EB%94%94): 프로그래밍 및 C언어가 처음이신 분들이나 C언어가 아직 익숙하지 않으신 분들은 이 스터디를 통해 C언어를 마스터하실 수 있습니다😊
   - 선수조건이 없습니다! 아무나 편하게 참여하시면 됩니다.
 - 알고리즘 스터디: 올해는 난이도에 따라 세 개의 분반으로 나누어 진행할 예정입니다. 
-  - [알고리즘 초급 스터디](https://github.com/ALPS-Study/Introduction/tree/master/2022-1R/0x01%20%EC%B4%88%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94)
+  - [알고리즘 초급 스터디](https://github.com/ALPS-Study/Introduction/tree/master/2023-1R/0x01%20%EC%B4%88%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94)
     - 프로그래밍 언어로 원하는 프로그램을 만들 수는 있지만, 아직 알고리즘이나 시간복잡도, 문제풀이에 대한 이해도가 부족하신 분들을 위한 스터디입니다. 자신이 생각한 알고리즘의 시간복잡도를 계산하고 문제의 조건에 알맞은지 파악하는 방법을 배우고, 기초적이지만 강력하면서도 필수적인 알고리즘들을 다룰 예정입니다.
     - C언어 문법이 숙지되어 있고, 백준 온라인 저지에서 기초적인 구현 문제 (브론즈 ~ 실버)를 어느 정도 해결하신 분들께 권해드립니다.
   - [알고리즘 중급 스터디](https://github.com/ALPS-Study/Introduction/tree/master/2022-1R/0x02%20%EC%A4%91%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94)
