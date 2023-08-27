@@ -39,7 +39,7 @@
 
 ## 세부 커리큘럼
 
-[다음 링크](https://github.com/ALPS-Study/Introduction/blob/77ed93c94250f98dde3005337d4c393615480495/2023-1R/0x02%20%EC%A4%91%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/intermediate_study_2023.md)를 참조하세요.
+[다음 링크](https://github.com/ALPS-Study/Introduction/tree/master/2023-2R/0x02%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0)를 참조하세요.
 
 ## 선수 요구 사항
 제한은 없습니다! 다만 자료구조(COSE213), 알고리즘(COSE214) 강의를 수강하시거나 이미 수강하셨을 경우 본 스터디에 큰 도움이 됩니다.
