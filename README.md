@@ -47,7 +47,7 @@ C언어 스터디를 제외한 다른 스터디에 참여하기 위해서는 선
   - 자료구조, 알고리즘 강의를 따라가기 위한 기초 컴퓨터 이론 및 문제 해결력을 기릅니다.
 
 
-- [알고리즘과 문제해결](https://github.com/ALPS-Study/Introduction/tree/master/2022-2R/0x02%20%EC%A4%91%EA%B8%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94)
+- [알고리즘과 문제해결](https://github.com/ALPS-Study/Introduction/blob/master/2023-2R/0x02%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0/README.md)
   - 학교 알고리즘(COSE214) 강의 내용을 돌아보고, 학교 강의 너머에 있는 내용들을 배워 봅니다.
   - 그동안 책과 강의에서 배운 내용들을 직접 구현해 보는 능력을 기르고, 다양한 문제들을 풀어보며 문제 해결력을 단련합니다.
   - 알고리즘을 더 자세히 배우고 싶거나, 컴퓨터과학 기초를 매우 탄탄히 다지고 싶으신 분들께 추천드립니다.
