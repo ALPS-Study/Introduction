@@ -40,7 +40,7 @@ C/Python과 같은 프로그래밍 언어를 사용할 수 있으면 무리없�
 
 ## 세부 커리큘럼
 
-[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2023-2R/0x01%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88%20Syllabus)를 참조해주세요.
+[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2023-2R/0x01%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88%20Syllabus.md)를 참조해주세요.
 
 
 
