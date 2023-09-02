@@ -42,7 +42,7 @@ C언어 스터디를 제외한 다른 스터디에 참여하기 위해서는 선
     
 ### 2학기 스터디 소개
 
-- [기초 알고리즘](https://github.com/ALPS-Study/Introduction/tree/master/2023-2R/0x01%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/README.md)
+- [기초 알고리즘](https://github.com/ALPS-Study/Introduction/blob/master/2023-2R/0x01%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/README.md)
   - 기초 자료구조, 그래프, 동적 계획법 등을 배우고 이를 활용한 문제들을 풀어 봅니다.
   - 자료구조, 알고리즘 강의를 따라가기 위한 기초 컴퓨터 이론 및 문제 해결력을 기릅니다.
 
