@@ -43,4 +43,4 @@ C와 C++의 문법과 디버깅에 활용하기 좋은 다양한 방법들을 �
 
 ## 세부 커리큘럼
 
-[다음 링크](https://github.com/ALPS-Study/Introduction/tree/master/2024-1R/0x00%20%EC%9E%85%EB%AC%B8%20%EC%8A%A4%ED%84%B0%EB%94%94)를 참조하세요.
+[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2024-1R/0x00%20%EC%9E%85%EB%AC%B8%20%EC%8A%A4%ED%84%B0%EB%94%94/2024_syllabus.md)를 참조하세요.
