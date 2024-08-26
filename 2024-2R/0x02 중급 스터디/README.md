@@ -44,3 +44,9 @@ BOJ 기준으로 Solved.ac 골드 하위권 ~ 플래티넘 상위권(다이아�
 ## 세부 커리큘럼
 
 [다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2024-2R/0x02%20%EC%A4%91%EA%B8%89%20%EC%8A%A4%ED%84%B0%EB%94%94/2024_syllabus.md)를 참조하세요.
+
+## 스터디 참가 전 풀어보면 좋은 문제들
+
+[스터디 문제들 모음](https://www.acmicpc.net/workbook/view/20433)
+위 링크에서 먼저 문제들을 풀어보시면 스터디에 참가해 문제를 푸는 것이 좀 더 수월해집니다!
+또한, 문제집에 포함된 최대 난이도의 문제들보다 어려운 문제들이 포함될 수 있습니다.
