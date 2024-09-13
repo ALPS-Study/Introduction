@@ -20,7 +20,7 @@
 
 ### 02주차: RSK correspondence
 
-- 3주차의 영 타블로를 위해 RSK correspondence를 배웁니다.
+- 03주차의 영 타블로를 위해 RSK correspondence를 배웁니다.
 
 ### 03주차: 영타블로(Young tableaux)
 
