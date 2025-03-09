@@ -31,4 +31,5 @@
 
 ## 세부 커리큘럼
 
+[다음 링크](https://github.com/ALPS-Study/Introduction/blob/master/2025-1R/0x02%20중급%20스터디/2025_syllabus.md)를 참조하세요.
 
