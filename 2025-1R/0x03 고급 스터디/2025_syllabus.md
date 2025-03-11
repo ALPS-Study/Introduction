@@ -18,6 +18,15 @@
 
 ### 01주차: 정수론
 
+- Pollard-Rho Algorithm
+- Fermat’s Little Theorem
+- Euler’s Theorem & Euler’s phi function
+- Miller-Rabin primality test
+- Chinese Remainder Theorem
+- Foundations of Math
+- Exponentiation By Squaring
+- Examples
+
 ### 02주차: 조합론
 
 ### 03주차: 세그먼트 트리 복습
